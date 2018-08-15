@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot_01">
+    <output-path>$PROJECT_DIR$/out/artifacts/springboot_01</output-path>
+    <root id="archive" name="springboot_01.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/target" />
+    </root>
+  </artifact>
+</component>
